@@ -24,7 +24,7 @@ ___
 ### Dúvidas
 * Ramires Gomes
 * [suporte@tgoo.pt](mailto:suporte@tgoo.pt)
-* [Whatsapp](whatsapp://send?phone=34991491885)
+* [Whatsapp](api.whatsapp.com/send?phone=34991491885)
 
 
 
